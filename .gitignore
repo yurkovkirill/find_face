@@ -5,3 +5,4 @@ photos
 node_modules
 .idea
 __pycache__
+web-front/build
